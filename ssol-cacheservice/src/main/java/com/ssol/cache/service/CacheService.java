@@ -6,6 +6,7 @@ import org.springframework.cache.annotation.CachePut;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 
+import com.ssol.cache.common.CacheItemNotFoundException;
 import com.ssol.cache.model.CacheItem;
 import com.ssol.cache.repositories.CacheRep;
 
