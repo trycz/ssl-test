@@ -12,6 +12,5 @@
 		overflowToDisk="false" 
 		timeToIdleSeconds="0"
 		memoryStoreEvictionPolicy="LRU" >
-    </cache>
-		
+    </cache>		
 </ehcache>
